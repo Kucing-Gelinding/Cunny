@@ -1,2 +1,2 @@
-# Cunny
-Test
+### Cunny -  CUNNY - AI Learning Navigator for Youth
+The CUNNY - AI Learning Navigator for Youth project introduces children aged 10-15 to artificial intelligence through an engaging and interactive Android application. The app focuses on Convolutional Neural Networks (CNNs), providing users with theoretical knowledge and practical experimentation opportunities, such as image classification tasks. By learning how AI processes and predicts outputs, young learners gain an understanding of its real-world applications. Future updates aim to include additional AI models, such as Natural Language Processing (NLP) and Generative Adversarial Networks (GANs), expanding the app’s scope. Hosted on Google Cloud Platform, the app ensures scalability, secure data handling, and an inspiring learning experience that fosters creativity and curiosity in technology.
